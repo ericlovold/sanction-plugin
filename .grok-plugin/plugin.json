@@ -1,0 +1,15 @@
+{
+  "name": "sanction",
+  "version": "0.1.0",
+  "description": "Request one-off human approval before an agent acts. Sanction evaluates spend, tools, credentials and provisioning; the host must ask before acting.",
+  "author": {
+    "name": "Sanction / getsanction.com (ericlovold)"
+  },
+  "homepage": "https://getsanction.com",
+  "repository": "https://github.com/ericlovold/sanction-plugin",
+  "license": "MIT",
+  "keywords": [
+    "sanction",
+    "getsanction"
+  ]
+}
